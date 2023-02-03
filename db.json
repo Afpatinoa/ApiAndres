@@ -3,24 +3,24 @@
     {
         "BarajaPoker":   [
       {
-        "Palo": "♣ Trebol ♣",
-        "Numero": 7
+        "Palo": "Trebol",
+        "Numero": "7"
       },
       {
-        "Palo": "♠️ Pica ♠️",
-        "Numero": 7
+        "Palo": "Pica",
+        "Numero": "7"
       },
       {
-        "Palo": "♦️ Diamante ♦️",
-        "Numero": Q
+        "Palo": "Diamante",
+        "Numero": "Q"
       },
       {
-        "Palo": "♥ Corazon ♥",
-        "Numero": 6
+        "Palo": "Corazon",
+        "Numero": "6"
       },
       {
-        "Palo": "♦️ Diamante ♦️",
-        "Numero": J
+        "Palo": "Diamante",
+        "Numero": "J"
       }
         ] 
     }
